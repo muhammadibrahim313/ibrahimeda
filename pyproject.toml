@@ -22,8 +22,8 @@ io = ["pyarrow>=14.0"]
 dev = ["pytest>=7.4", "ruff>=0.4", "black>=24.3"]
 
 [project.urls]
-homepage = "https://github.com/yourname/ibrahimeda"
-repository = "https://github.com/yourname/ibrahimeda"
+homepage = "https://github.com/muhammadibrahim313/ibrahimeda"
+repository = "https://github.com/muhammadibrahim313/ibrahimeda"
 
 [project.scripts]
 ibrahimeda = "ibrahimeda.cli:main"
