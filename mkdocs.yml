@@ -1,0 +1,5 @@
+site_name: ibrahimeda
+nav:
+  - Home: index.md
+theme:
+  name: mkdocs

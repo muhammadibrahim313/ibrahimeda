@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.DS_Store
+.dist/
+dist/
+build/
+*.egg-info/
+site/
+.citybikes_networks.csv
