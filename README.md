@@ -1,4 +1,4 @@
-# ibrahimeda
+# ibrahimeda - pypy module
 
 Small, dependable utilities you reuse in data projects. Simple API, quick results.
 
